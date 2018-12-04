@@ -13,6 +13,7 @@ Nippon Budokan: true
 Yokohama Arena: true
 Nagashima Spa Land Lawn Plaza Special Stage: true
 Metropolitan Shiokaze Park Sun plaza: true
+NHK Studio: true
 Nakano Sun Plaza: true
 Pacifico Yokohama National Convention Hall: true
 Fukuoka City Hall: true
@@ -21,6 +22,7 @@ Hiroshima Cultural Gallery HBG Hall: true
 Nagoya International Conference Center Century Hall: true
 Sapporo Museum of Art and Culture Nitori Cultural Hall: true
 'Sendai Sun Plaza Hall ': true
+N/A: true
 NHK Broadcasting Center CT-101 studio: true
 NHK Hall: true
 Shanghai Mercedes-Benz Arena: true
@@ -28,6 +30,7 @@ Taipei World Trade Center Nangang Exhibition Hall: true
 Tokyo Dome: true
 Mielparque Hall: true
 Numazu Civic Center: true
+NHK Station: true
 Toyusu PIT: true
 Yoyogi Gymnasium: true
 Microsoft Theatre (US): true
@@ -38,8 +41,9 @@ World Memorial Hall: true
 MetLife Dome: true
 Qinghai P District Special Stage: true
 Orix Theater: true
-KBS Arena: true
+KBS Arena (KR): true
 Nitori Cultural Hall: true
+Grand Prince Hotel New Takanawa: true
 Numazu Civic Cultural Center: true
 Fuji TV 02: true
 Fukuoka Sun Palace Hotel & Hall: true
@@ -52,7 +56,6 @@ Osaka-jō Hall: true
 TBS: true
 Marine Messe Fukuoka: true
 Roppongi Hills Arena: true
-NHK: true
 Nitori Culture Hall: true
 Forest Hall: true
 Matsuyama City Center: true
@@ -61,6 +64,7 @@ Sendai Sun Plaza: true
 Makuhari Event Hall: true
 Hiroshima Bunka Gakuen HBG Hall: true
 Honda no Mori Hall: true
+Asahikawa Civic Culture Hall: true
 Musashino Forest Sports Plaza (Main Arena): true
 Diver City Tokyo Plaza: true
 Stellar Ball - Shinagawa: true
