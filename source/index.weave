@@ -139,29 +139,33 @@ Dir["data/perf/*"].each do |path|
 					end
 
 					ibox do
-						iframe "",
-							id: "themap",
-							width: "100%",
-							height: "600",
-							frameborder: "0",
-							style: "border:0",
-							src:""
+						if loc_info[:bb] && loc_info[:bb].length == 4
+							iframe "",
+								id: "themap",
+								width: "100%",
+								height: "600",
+								frameborder: "0",
+								style: "border:0",
+								src:""
 
-						on_page_load <<-SCRIPT
-							var url = 'https://www.openstreetmap.org/export/embed.html?bbox='+
-								#{loc_info[:bb][1]}+
-								'%2C'+
-								#{loc_info[:bb][0]}+
-								'%2C'+
-								#{loc_info[:bb][3]}+
-								'%2C'+
-								#{loc_info[:bb][2]}+
-								'&layer=mapnik&marker='+
-								#{loc_info[:lat]}+
-								'%2C'+
-								#{loc_info[:lon]};
-							$('#themap').attr('src', url)
-						SCRIPT
+							on_page_load <<-SCRIPT
+								var url = 'https://www.openstreetmap.org/export/embed.html?bbox='+
+									#{loc_info[:bb][1]}+
+									'%2C'+
+									#{loc_info[:bb][0]}+
+									'%2C'+
+									#{loc_info[:bb][3]}+
+									'%2C'+
+									#{loc_info[:bb][2]}+
+									'&layer=mapnik&marker='+
+									#{loc_info[:lat]}+
+									'%2C'+
+									#{loc_info[:lon]};
+								$('#themap').attr('src', url)
+							SCRIPT
+						else
+							h3 "No venue coordinates (yet)."
+						end
 					end
 
 				end
