@@ -139,7 +139,7 @@ Dir["data/perf/*"].each do |path|
 					end
 
 					ibox do
-						if loc_info[:bb] && loc_info[:bb].length == 4
+						if loc_info && loc_info[:bb] && loc_info[:bb].length == 4
 							iframe "",
 								id: "themap",
 								width: "100%",
