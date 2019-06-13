@@ -2,7 +2,7 @@ title: Post 5th Live Updates
 date: 2019-06-13-16:00:00
 ---
 
-**Aqours: **
+**Aqours**
 
 Added new songs
 
