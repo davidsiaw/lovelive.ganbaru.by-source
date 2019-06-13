@@ -2,7 +2,7 @@ title: Post 5th Live Updates
 date: 2019-06-13-16:00:00
 ---
 
-Aqours: 
+**Aqours: **
 
 Added new songs
 
@@ -20,7 +20,7 @@ Added new events
 Added place holder for Shadowverse collaboration song and SIF collaboration singles with Subunits (CYaRon, AZALEA, Guilty Kiss)
 
 
-Nijigasaki High School Idol Club
+**Nijigasaki High School Idol Club**
 
 Added new events
 
@@ -32,7 +32,7 @@ Added new events
 Added place holder for 2nd album
 
 
-µ's
+**µ's**
 
 
 Added new events
