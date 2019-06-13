@@ -12,7 +12,7 @@ Added new songs
 
 Added new events
 
-- Aqours World Love Live! in LA ~BRAND NEW WAVE~
+- Aqours World Love Live! in LA BRAND NEW WAVE
 - Animelo Summer Live 2019 STORY
 - Love Live! Festival
 
