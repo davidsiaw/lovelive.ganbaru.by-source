@@ -4,7 +4,7 @@ date: 2019-07-30-12:00:00
 
 **Aqours** 
 
-Events set list added for:
+Set list added for:
 
 - BILIBILI MACRO LINK -STAR PHASE × Anisong World Matsuri
 
