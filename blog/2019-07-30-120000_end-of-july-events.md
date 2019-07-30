@@ -18,7 +18,7 @@ Added schedule for the events:
 - Love Live! Sunshine!! Unit Live Adventure 2020 -AZALEA 1st Live-
 
 
-Added song titles
+Added new song titles
 
 - Bouken Type A, B, C!!
 
