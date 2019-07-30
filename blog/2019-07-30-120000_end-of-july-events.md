@@ -11,11 +11,11 @@ Events set list added for:
 
 Added schedule for the events:
 
-- Love Live! Sunshine!! Unit Live Adventure 2020 ~Guilty Kiss 1st Live~
+- Love Live! Sunshine!! Unit Live Adventure 2020 -Guilty Kiss 1st Live-
 
-- Love Live! Sunshine!! Unit Live Adventure 2020 ~CYaRon 1st Live~
+- Love Live! Sunshine!! Unit Live Adventure 2020 -CYaRon 1st Live-
 
-- Love Live! Sunshine!! Unit Live Adventure 2020 ~AZALEA 1st Live~
+- Love Live! Sunshine!! Unit Live Adventure 2020 -AZALEA 1st Live-
 
 
 Added song titles
