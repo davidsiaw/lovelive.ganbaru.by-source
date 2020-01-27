@@ -14,3 +14,5 @@ Set list added for:
 Added new song titles:
 
 - A song for You! You? You!!
+
+- Fixed song counts
