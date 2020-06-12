@@ -251,13 +251,22 @@ dc = DataCollector.new
 spreadsheet_id = '1JI_AiobPkbYJ1J2-PLN6tq3w3Hre6lMTdYps_owxCss'
 spreadsheet = service.get_spreadsheet(spreadsheet_id)
 
+all_sheets = {}
+
 # p get_color(service, spreadsheet_id, "Aqours", "BE79")
 groups = spreadsheet.sheets.each_with_index.map do |x, _i|
   result = service.get_spreadsheet_values(spreadsheet_id, "'#{x.properties.title}'!A1")
+  all_sheets[x.properties.title] = x
   [x.properties.title, result.values[0][0]]
 end.select { |_key, first_cell| first_cell == 'Full Version' }.map { |k, _v| k }
 
 groups.each { |group| get_sheet_data(service, spreadsheet_id, group, dc) }
+
+series_timeline_values = service.get_spreadsheet_values(spreadsheet_id, "'Series Timeline'!A:F")
+song_name_values = service.get_spreadsheet_values(spreadsheet_id, "'Song Names'!A:C")
+
+File.write('extradata/timeline.yml', series_timeline_values.values.to_yaml)
+File.write('extradata/names.yml', song_name_values.values.to_yaml)
 
 FileUtils.mkdir_p 'extradata'
 File.write('extradata/locs.yml', dc.venues.to_yaml)
