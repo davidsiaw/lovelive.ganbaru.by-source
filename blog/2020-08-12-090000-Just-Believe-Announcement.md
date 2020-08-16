@@ -9,6 +9,6 @@ Added new song titles:
 
 - Kitsui no Hikari
 
-- TOKIMEKI Runners (Love Live All Stars Chapter 17 Version)
+- TOKIMEKI Runners (Love Live! All Stars Chapter 17 Version)
 
 - Just Believe!!!
