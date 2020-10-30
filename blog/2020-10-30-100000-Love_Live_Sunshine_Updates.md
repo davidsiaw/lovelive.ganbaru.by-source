@@ -8,4 +8,4 @@ Added setlist:
 
 - Aqours ONLINE LoveLive! ～LOST WORLD～
 
-- Love Live! Sunshine!! Saint Snow 1st GIG ~Welcome to Dazzling White Town~
+- LoveLive! Sunshine!! Saint Snow 1st GIG ~Welcome to Dazzling White Town~
