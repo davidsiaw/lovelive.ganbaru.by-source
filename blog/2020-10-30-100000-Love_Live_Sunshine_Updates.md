@@ -2,7 +2,7 @@ title: Love Live Sunshine Updates
 date: 2020-10-30-10:00:00
 ---
 
-**Love Live Sunshine **
+**Love Live Sunshine**
 
 Added setlist:
 
