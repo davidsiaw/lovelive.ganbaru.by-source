@@ -4,7 +4,7 @@ date: 2020-10-30-10:00:00
 
 **Love Live Sunshine**
 
-Added setlist:
+Added setlist :
 
 - Aqours ONLINE LoveLive! ~LOST WORLD～
 
