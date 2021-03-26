@@ -8,6 +8,6 @@ Updates added based on the recent live steam
 
 - You solo song title
 
-- Aqours 1st unit albums
+- Aqours 1st unit albums (CYaRon, AZALEA, Guilty Kiss)
 
 - Aqours club 2021 club theme song
