@@ -7,6 +7,7 @@ date: 2021-05-09-22:00:00
 Updated set list for
 
 - Hajimari wa Minna no Sora
+- Shibuya no Oto
 
 **Nijigasaki High School Idol Club**
 
