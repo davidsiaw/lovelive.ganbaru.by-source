@@ -9,7 +9,7 @@ Updated set list for
 - Hajimari wa Minna no Sora
 - Shibuya No Oto
 
-**Nijigasaki High School Idol Club**
+**Nijigasaki High School Idol Club **
 
 Updated set list for
 
