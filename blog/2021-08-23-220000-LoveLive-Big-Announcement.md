@@ -1,5 +1,5 @@
 title: Love Live! Golden Week
-date: 2021-05-09-22:00:00
+date: 2021-08-23-22:00:00
 ---
 
 **Love Live**
