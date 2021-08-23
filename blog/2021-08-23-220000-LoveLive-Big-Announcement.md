@@ -1,0 +1,11 @@
+title: Love Live! Golden Week
+date: 2021-05-09-22:00:00
+---
+
+**Love Live**
+
+LoveLive! Series Presents COUNTDOWN LoveLive! 2021→2022 ~LIVE with a smile!~ on December 31, 2021 with Aqours, Nijigasaki High School Idol Club, and Liella!
+
+**Aqours**
+
+Aqours EXTRA LoveLive! ~Dreamy Concert 2021~ on December 29-30, 2021
