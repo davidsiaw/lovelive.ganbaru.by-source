@@ -8,4 +8,4 @@ Love Live! Series Presents COUNTDOWN LoveLive! 2021→2022 ~LIVE with a smile!~ 
 
 **Aqours**
 
-Aqours EXTRA LoveLive! ~Dreamy Concert 2021~ on December 29-30, 2021
+Aqours EXTRA Love Live! ~Dreamy Concert 2021~ on December 29-30, 2021
