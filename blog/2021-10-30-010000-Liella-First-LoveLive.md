@@ -9,4 +9,13 @@ The setlist for each leg will be updated as they end
 Current:
 
 * Gunma
-* Okayama (In Progress)
+* Okayama
+* Hokkaido
+* Osaka
+* Tokyo
+* Fukuoka
+* Aichi
+* Chiba (In Progress)
+* Fukui (In Progress)
+* Miyagi (In Progress)
+* Extra leg (In Progress)
