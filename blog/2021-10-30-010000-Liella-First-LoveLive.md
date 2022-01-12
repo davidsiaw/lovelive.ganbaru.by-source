@@ -18,4 +18,4 @@ Current:
 * Chiba 
 * Fukui 
 * Miyagi 
-* Extra leg (In Progress)
+* Extra leg (In Progress) 
