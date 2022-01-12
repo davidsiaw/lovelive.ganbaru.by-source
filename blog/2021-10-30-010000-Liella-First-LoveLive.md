@@ -15,7 +15,7 @@ Current:
 * Tokyo
 * Fukuoka
 * Aichi
-* Chiba (In Progress)
-* Fukui (In Progress)
-* Miyagi (In Progress)
+* Chiba 
+* Fukui 
+* Miyagi 
 * Extra leg (In Progress)
